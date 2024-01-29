@@ -31,5 +31,37 @@ This project is a simple user registration system with a PHP backend. Users can 
    - Sign up with a new account on `signup.php`.
    - Log in with the created account on `login.php`.
    - View your profile on `homepage.php`.
+  
+
+     # Task 3( Interactive JavaScript Form )
+
+This project is a simple interactive JavaScript form that allows users to input two numbers, calculates the sum dynamically without refreshing the page, and implements client-side validation.
+
+
+## Project Overview
+- **Form Page:** `index.php` contains a form with input fields for two numbers.
+- **JavaScript Functionality:** The form utilizes JavaScript to dynamically calculate and display the sum without refreshing.
+- **Client-Side Validation:** Validates user input to ensure only numeric values are accepted.
+- **Styling:** The project includes a `style.css` file for basic styling.
+
+## Files
+- `index.php`: Webpage with the interactive form and JavaScript functionality.
+- `style.css`: CSS file for styling the form.
+
+## Setup and Usage
+1. **Web Server:**
+   - Place the project files in the root directory of your web server.
+
+2. **Accessing the Application:**
+   - Open a web browser and navigate to the project's root directory.
+   - Open `index.php` in the browser to view the interactive form.
+
+3. **Using the Form:**
+   - Input two numeric values into the form fields.
+   - Click the "Calculate Sum" button to see the dynamic result.
+   - Client-side validation will ensure that only numeric values are accepted.
+
+
+
 
 
