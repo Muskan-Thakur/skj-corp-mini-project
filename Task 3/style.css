@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+form {
+    background-color: #fff;
+    padding: 20px;
+    max-width:fit-content;
+    width: 100%;
+    align-items: center;
+    background-color: blanchedalmond;
+}
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #005eff;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #374d9f;
+}
